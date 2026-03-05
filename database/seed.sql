@@ -1,0 +1,3 @@
+-- Demo users are created via backend seed script (backend/scripts/seed.js)
+-- Run: node scripts/seed.js (from backend directory) after schema is applied.
+-- Demo credentials: admin@example.com / admin123, user@example.com / user123, readonly@example.com / readonly123
